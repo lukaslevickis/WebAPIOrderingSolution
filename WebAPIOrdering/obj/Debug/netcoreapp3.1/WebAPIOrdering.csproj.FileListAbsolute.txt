@@ -1,0 +1,116 @@
+C:/Users/lle/Downloads/WebAPIOrdering/WebAPIOrdering/bin/Debug/netcoreapp3.1/appsettings.Development.json
+C:/Users/lle/Downloads/WebAPIOrdering/WebAPIOrdering/bin/Debug/netcoreapp3.1/appsettings.json
+C:/Users/lle/Downloads/WebAPIOrdering/WebAPIOrdering/bin/Debug/netcoreapp3.1/Properties/launchSettings.json
+C:/Users/lle/Downloads/WebAPIOrdering/WebAPIOrdering/bin/Debug/netcoreapp3.1/WebAPIOrdering.exe
+C:/Users/lle/Downloads/WebAPIOrdering/WebAPIOrdering/bin/Debug/netcoreapp3.1/WebAPIOrdering.deps.json
+C:/Users/lle/Downloads/WebAPIOrdering/WebAPIOrdering/bin/Debug/netcoreapp3.1/WebAPIOrdering.runtimeconfig.json
+C:/Users/lle/Downloads/WebAPIOrdering/WebAPIOrdering/bin/Debug/netcoreapp3.1/WebAPIOrdering.runtimeconfig.dev.json
+C:/Users/lle/Downloads/WebAPIOrdering/WebAPIOrdering/bin/Debug/netcoreapp3.1/WebAPIOrdering.dll
+C:/Users/lle/Downloads/WebAPIOrdering/WebAPIOrdering/bin/Debug/netcoreapp3.1/WebAPIOrdering.pdb
+C:/Users/lle/Downloads/WebAPIOrdering/WebAPIOrdering/obj/Debug/netcoreapp3.1/WebAPIOrdering.AssemblyInfoInputs.cache
+C:/Users/lle/Downloads/WebAPIOrdering/WebAPIOrdering/obj/Debug/netcoreapp3.1/WebAPIOrdering.AssemblyInfo.cs
+C:/Users/lle/Downloads/WebAPIOrdering/WebAPIOrdering/obj/Debug/netcoreapp3.1/WebAPIOrdering.csproj.CoreCompileInputs.cache
+C:/Users/lle/Downloads/WebAPIOrdering/WebAPIOrdering/obj/Debug/netcoreapp3.1/WebAPIOrdering.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/lle/Downloads/WebAPIOrdering/WebAPIOrdering/obj/Debug/netcoreapp3.1/WebAPIOrdering.RazorTargetAssemblyInfo.cache
+C:/Users/lle/Downloads/WebAPIOrdering/WebAPIOrdering/obj/Debug/netcoreapp3.1/staticwebassets/WebAPIOrdering.StaticWebAssets.Manifest.cache
+C:/Users/lle/Downloads/WebAPIOrdering/WebAPIOrdering/obj/Debug/netcoreapp3.1/staticwebassets/WebAPIOrdering.StaticWebAssets.xml
+C:/Users/lle/Downloads/WebAPIOrdering/WebAPIOrdering/obj/Debug/netcoreapp3.1/WebAPIOrdering.dll
+C:/Users/lle/Downloads/WebAPIOrdering/WebAPIOrdering/obj/Debug/netcoreapp3.1/WebAPIOrdering.pdb
+C:/Users/lle/Downloads/WebAPIOrdering/WebAPIOrdering/obj/Debug/netcoreapp3.1/WebAPIOrdering.genruntimeconfig.cache
+C:/Users/lle/Downloads/WebAPIOrdering/WebAPIOrdering/obj/Debug/netcoreapp3.1/WebAPIOrdering.csprojAssemblyReference.cache
+/Users/lukaslevickis/Projects/new/WebAPIOrdering/WebAPIOrdering/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/Users/lukaslevickis/Projects/new/WebAPIOrdering/WebAPIOrdering/bin/Debug/netcoreapp3.1/Properties/launchSettings.json
+/Users/lukaslevickis/Projects/new/WebAPIOrdering/WebAPIOrdering/bin/Debug/netcoreapp3.1/WebAPIOrdering
+/Users/lukaslevickis/Projects/new/WebAPIOrdering/WebAPIOrdering/bin/Debug/netcoreapp3.1/WebAPIOrdering.deps.json
+/Users/lukaslevickis/Projects/new/WebAPIOrdering/WebAPIOrdering/bin/Debug/netcoreapp3.1/WebAPIOrdering.runtimeconfig.json
+/Users/lukaslevickis/Projects/new/WebAPIOrdering/WebAPIOrdering/bin/Debug/netcoreapp3.1/WebAPIOrdering.runtimeconfig.dev.json
+/Users/lukaslevickis/Projects/new/WebAPIOrdering/WebAPIOrdering/bin/Debug/netcoreapp3.1/WebAPIOrdering.dll
+/Users/lukaslevickis/Projects/new/WebAPIOrdering/WebAPIOrdering/bin/Debug/netcoreapp3.1/WebAPIOrdering.pdb
+/Users/lukaslevickis/Projects/new/WebAPIOrdering/WebAPIOrdering/obj/Debug/netcoreapp3.1/staticwebassets/WebAPIOrdering.StaticWebAssets.Manifest.cache
+/Users/lukaslevickis/Projects/new/WebAPIOrdering/WebAPIOrdering/obj/Debug/netcoreapp3.1/staticwebassets/WebAPIOrdering.StaticWebAssets.xml
+/Users/lukaslevickis/Projects/new/WebAPIOrdering/WebAPIOrdering/obj/Debug/netcoreapp3.1/WebAPIOrdering.MvcApplicationPartsAssemblyInfo.cache
+/Users/lukaslevickis/Projects/new/WebAPIOrdering/WebAPIOrdering/obj/Debug/netcoreapp3.1/WebAPIOrdering.AssemblyInfoInputs.cache
+/Users/lukaslevickis/Projects/new/WebAPIOrdering/WebAPIOrdering/obj/Debug/netcoreapp3.1/WebAPIOrdering.AssemblyInfo.cs
+/Users/lukaslevickis/Projects/new/WebAPIOrdering/WebAPIOrdering/obj/Debug/netcoreapp3.1/WebAPIOrdering.RazorTargetAssemblyInfo.cache
+/Users/lukaslevickis/Projects/new/WebAPIOrdering/WebAPIOrdering/obj/Debug/netcoreapp3.1/WebAPIOrdering.dll
+/Users/lukaslevickis/Projects/new/WebAPIOrdering/WebAPIOrdering/obj/Debug/netcoreapp3.1/WebAPIOrdering.pdb
+/Users/lukaslevickis/Projects/new/WebAPIOrdering/WebAPIOrdering/obj/Debug/netcoreapp3.1/WebAPIOrdering.csprojAssemblyReference.cache
+C:/Users/lle/Downloads/sorter/WebAPIOrdering/WebAPIOrdering/bin/Debug/netcoreapp3.1/appsettings.Development.json
+C:/Users/lle/Downloads/sorter/WebAPIOrdering/WebAPIOrdering/bin/Debug/netcoreapp3.1/Properties/launchSettings.json
+C:/Users/lle/Downloads/sorter/WebAPIOrdering/WebAPIOrdering/bin/Debug/netcoreapp3.1/JsonFiles/4dad7da4-e67f-449e-9f32-bcb35a7ab126.json
+C:/Users/lle/Downloads/sorter/WebAPIOrdering/WebAPIOrdering/bin/Debug/netcoreapp3.1/WebAPIOrdering.exe
+C:/Users/lle/Downloads/sorter/WebAPIOrdering/WebAPIOrdering/bin/Debug/netcoreapp3.1/WebAPIOrdering.deps.json
+C:/Users/lle/Downloads/sorter/WebAPIOrdering/WebAPIOrdering/bin/Debug/netcoreapp3.1/WebAPIOrdering.runtimeconfig.json
+C:/Users/lle/Downloads/sorter/WebAPIOrdering/WebAPIOrdering/bin/Debug/netcoreapp3.1/WebAPIOrdering.runtimeconfig.dev.json
+C:/Users/lle/Downloads/sorter/WebAPIOrdering/WebAPIOrdering/bin/Debug/netcoreapp3.1/WebAPIOrdering.dll
+C:/Users/lle/Downloads/sorter/WebAPIOrdering/WebAPIOrdering/bin/Debug/netcoreapp3.1/WebAPIOrdering.pdb
+C:/Users/lle/Downloads/sorter/WebAPIOrdering/WebAPIOrdering/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+C:/Users/lle/Downloads/sorter/WebAPIOrdering/WebAPIOrdering/obj/Debug/netcoreapp3.1/WebAPIOrdering.AssemblyInfoInputs.cache
+C:/Users/lle/Downloads/sorter/WebAPIOrdering/WebAPIOrdering/obj/Debug/netcoreapp3.1/WebAPIOrdering.AssemblyInfo.cs
+C:/Users/lle/Downloads/sorter/WebAPIOrdering/WebAPIOrdering/obj/Debug/netcoreapp3.1/WebAPIOrdering.csproj.CoreCompileInputs.cache
+C:/Users/lle/Downloads/sorter/WebAPIOrdering/WebAPIOrdering/obj/Debug/netcoreapp3.1/WebAPIOrdering.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/lle/Downloads/sorter/WebAPIOrdering/WebAPIOrdering/obj/Debug/netcoreapp3.1/WebAPIOrdering.RazorTargetAssemblyInfo.cache
+C:/Users/lle/Downloads/sorter/WebAPIOrdering/WebAPIOrdering/obj/Debug/netcoreapp3.1/WebAPIOrdering.csproj.CopyComplete
+C:/Users/lle/Downloads/sorter/WebAPIOrdering/WebAPIOrdering/obj/Debug/netcoreapp3.1/staticwebassets/WebAPIOrdering.StaticWebAssets.Manifest.cache
+C:/Users/lle/Downloads/sorter/WebAPIOrdering/WebAPIOrdering/obj/Debug/netcoreapp3.1/staticwebassets/WebAPIOrdering.StaticWebAssets.xml
+C:/Users/lle/Downloads/sorter/WebAPIOrdering/WebAPIOrdering/obj/Debug/netcoreapp3.1/WebAPIOrdering.dll
+C:/Users/lle/Downloads/sorter/WebAPIOrdering/WebAPIOrdering/obj/Debug/netcoreapp3.1/WebAPIOrdering.pdb
+C:/Users/lle/Downloads/sorter/WebAPIOrdering/WebAPIOrdering/obj/Debug/netcoreapp3.1/WebAPIOrdering.genruntimeconfig.cache
+C:/Users/lle/Downloads/sorter/WebAPIOrdering/WebAPIOrdering/bin/Debug/netcoreapp3.1/JsonFiles/123b1c2b-bd45-49de-9095-2fbcbd913cab.json
+C:/Users/lle/Downloads/sorter/WebAPIOrdering/WebAPIOrdering/bin/Debug/netcoreapp3.1/JsonFiles/79542d9a-a2b2-48b1-9b69-f965e989f137.json
+C:/Users/lle/Downloads/sorter/WebAPIOrdering/WebAPIOrdering/bin/Debug/netcoreapp3.1/JsonFiles/7a07541c-2c59-4f1f-a225-fcf4197fe04f.json
+C:/Users/lle/Downloads/sorter/WebAPIOrdering/WebAPIOrdering/bin/Debug/netcoreapp3.1/JsonFiles/880f4a95-eb6d-4ae0-87ec-74b895f556ef.json
+C:/Users/lle/Downloads/sorter/WebAPIOrdering/WebAPIOrdering/bin/Debug/netcoreapp3.1/JsonFiles/ba29deec-65e2-4903-8a48-58901d7cd706.json
+C:/Users/lle/Downloads/sorter/WebAPIOrdering/WebAPIOrdering/bin/Debug/netcoreapp3.1/JsonFiles/1455db66-8456-4fa7-8f73-760551c2558b.json
+C:/Users/lle/Downloads/sorter/WebAPIOrdering/WebAPIOrdering/bin/Debug/netcoreapp3.1/JsonFiles/bf3594ee-4644-4d6a-8229-cf0a73ed6d97.json
+C:/Users/lle/Downloads/sorter/WebAPIOrdering/WebAPIOrdering/bin/Debug/netcoreapp3.1/JsonFiles/36e48acc-c203-4eeb-883e-31ccb3e6e5ed.json
+C:/Users/lle/Downloads/sorter/WebAPIOrdering/WebAPIOrdering/bin/Debug/netcoreapp3.1/JsonFiles/1faa0dd3-7d2d-42c3-984d-e2510786c21f.json
+C:/Users/lle/Downloads/sorter/WebAPIOrdering/WebAPIOrdering/bin/Debug/netcoreapp3.1/JsonFiles/02da0c66-d12b-41bb-b642-a62b2a7fe30c.json
+C:/Users/lle/Downloads/sorter/WebAPIOrdering/WebAPIOrdering/bin/Debug/netcoreapp3.1/JsonFiles/50242266-eae1-49ba-9e20-f2d8d5a4185e.json
+C:/Users/lle/Downloads/sorter/WebAPIOrdering/WebAPIOrdering/bin/Debug/netcoreapp3.1/JsonFiles/65011a2d-78b8-4606-8a92-b657bd8ac49f.json
+/Users/lukaslevickis/Downloads/WebAPIOrdering 2/WebAPIOrdering/bin/Debug/netcoreapp3.1/nlog.config
+/Users/lukaslevickis/Downloads/WebAPIOrdering 2/WebAPIOrdering/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/Users/lukaslevickis/Downloads/WebAPIOrdering 2/WebAPIOrdering/bin/Debug/netcoreapp3.1/Properties/launchSettings.json
+/Users/lukaslevickis/Downloads/WebAPIOrdering 2/WebAPIOrdering/bin/Debug/netcoreapp3.1/WebAPIOrdering
+/Users/lukaslevickis/Downloads/WebAPIOrdering 2/WebAPIOrdering/bin/Debug/netcoreapp3.1/WebAPIOrdering.deps.json
+/Users/lukaslevickis/Downloads/WebAPIOrdering 2/WebAPIOrdering/bin/Debug/netcoreapp3.1/WebAPIOrdering.runtimeconfig.json
+/Users/lukaslevickis/Downloads/WebAPIOrdering 2/WebAPIOrdering/bin/Debug/netcoreapp3.1/WebAPIOrdering.runtimeconfig.dev.json
+/Users/lukaslevickis/Downloads/WebAPIOrdering 2/WebAPIOrdering/bin/Debug/netcoreapp3.1/WebAPIOrdering.dll
+/Users/lukaslevickis/Downloads/WebAPIOrdering 2/WebAPIOrdering/bin/Debug/netcoreapp3.1/WebAPIOrdering.pdb
+/Users/lukaslevickis/Downloads/WebAPIOrdering 2/WebAPIOrdering/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/Users/lukaslevickis/Downloads/WebAPIOrdering 2/WebAPIOrdering/bin/Debug/netcoreapp3.1/NLog.dll
+/Users/lukaslevickis/Downloads/WebAPIOrdering 2/WebAPIOrdering/bin/Debug/netcoreapp3.1/NLog.Extensions.Logging.dll
+/Users/lukaslevickis/Downloads/WebAPIOrdering 2/WebAPIOrdering/obj/Debug/netcoreapp3.1/staticwebassets/WebAPIOrdering.StaticWebAssets.Manifest.cache
+/Users/lukaslevickis/Downloads/WebAPIOrdering 2/WebAPIOrdering/obj/Debug/netcoreapp3.1/staticwebassets/WebAPIOrdering.StaticWebAssets.xml
+/Users/lukaslevickis/Downloads/WebAPIOrdering 2/WebAPIOrdering/obj/Debug/netcoreapp3.1/WebAPIOrdering.MvcApplicationPartsAssemblyInfo.cache
+/Users/lukaslevickis/Downloads/WebAPIOrdering 2/WebAPIOrdering/obj/Debug/netcoreapp3.1/WebAPIOrdering.AssemblyInfoInputs.cache
+/Users/lukaslevickis/Downloads/WebAPIOrdering 2/WebAPIOrdering/obj/Debug/netcoreapp3.1/WebAPIOrdering.AssemblyInfo.cs
+/Users/lukaslevickis/Downloads/WebAPIOrdering 2/WebAPIOrdering/obj/Debug/netcoreapp3.1/WebAPIOrdering.RazorTargetAssemblyInfo.cache
+/Users/lukaslevickis/Downloads/WebAPIOrdering 2/WebAPIOrdering/obj/Debug/netcoreapp3.1/WebAPIOrdering.csproj.CopyComplete
+/Users/lukaslevickis/Downloads/WebAPIOrdering 2/WebAPIOrdering/obj/Debug/netcoreapp3.1/WebAPIOrdering.dll
+/Users/lukaslevickis/Downloads/WebAPIOrdering 2/WebAPIOrdering/obj/Debug/netcoreapp3.1/WebAPIOrdering.pdb
+/Users/lukaslevickis/Projects/WebAPIOrdering/WebAPIOrdering/bin/Debug/netcoreapp3.1/nlog.config
+/Users/lukaslevickis/Projects/WebAPIOrdering/WebAPIOrdering/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/Users/lukaslevickis/Projects/WebAPIOrdering/WebAPIOrdering/bin/Debug/netcoreapp3.1/JsonFiles/593c3405-e013-45e5-9a11-26a9daec1313.json
+/Users/lukaslevickis/Projects/WebAPIOrdering/WebAPIOrdering/bin/Debug/netcoreapp3.1/JsonFiles/9fd57905-8fa0-46cc-978a-2fe67ac8749f.json
+/Users/lukaslevickis/Projects/WebAPIOrdering/WebAPIOrdering/bin/Debug/netcoreapp3.1/JsonFiles/test.json
+/Users/lukaslevickis/Projects/WebAPIOrdering/WebAPIOrdering/bin/Debug/netcoreapp3.1/Properties/launchSettings.json
+/Users/lukaslevickis/Projects/WebAPIOrdering/WebAPIOrdering/bin/Debug/netcoreapp3.1/WebAPIOrdering
+/Users/lukaslevickis/Projects/WebAPIOrdering/WebAPIOrdering/bin/Debug/netcoreapp3.1/WebAPIOrdering.deps.json
+/Users/lukaslevickis/Projects/WebAPIOrdering/WebAPIOrdering/bin/Debug/netcoreapp3.1/WebAPIOrdering.runtimeconfig.json
+/Users/lukaslevickis/Projects/WebAPIOrdering/WebAPIOrdering/bin/Debug/netcoreapp3.1/WebAPIOrdering.runtimeconfig.dev.json
+/Users/lukaslevickis/Projects/WebAPIOrdering/WebAPIOrdering/bin/Debug/netcoreapp3.1/WebAPIOrdering.dll
+/Users/lukaslevickis/Projects/WebAPIOrdering/WebAPIOrdering/bin/Debug/netcoreapp3.1/WebAPIOrdering.pdb
+/Users/lukaslevickis/Projects/WebAPIOrdering/WebAPIOrdering/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/Users/lukaslevickis/Projects/WebAPIOrdering/WebAPIOrdering/bin/Debug/netcoreapp3.1/NLog.dll
+/Users/lukaslevickis/Projects/WebAPIOrdering/WebAPIOrdering/bin/Debug/netcoreapp3.1/NLog.Extensions.Logging.dll
+/Users/lukaslevickis/Projects/WebAPIOrdering/WebAPIOrdering/bin/Debug/netcoreapp3.1/System.IO.Abstractions.dll
+/Users/lukaslevickis/Projects/WebAPIOrdering/WebAPIOrdering/obj/Debug/netcoreapp3.1/staticwebassets/WebAPIOrdering.StaticWebAssets.Manifest.cache
+/Users/lukaslevickis/Projects/WebAPIOrdering/WebAPIOrdering/obj/Debug/netcoreapp3.1/staticwebassets/WebAPIOrdering.StaticWebAssets.xml
+/Users/lukaslevickis/Projects/WebAPIOrdering/WebAPIOrdering/obj/Debug/netcoreapp3.1/WebAPIOrdering.MvcApplicationPartsAssemblyInfo.cache
+/Users/lukaslevickis/Projects/WebAPIOrdering/WebAPIOrdering/obj/Debug/netcoreapp3.1/WebAPIOrdering.AssemblyInfoInputs.cache
+/Users/lukaslevickis/Projects/WebAPIOrdering/WebAPIOrdering/obj/Debug/netcoreapp3.1/WebAPIOrdering.AssemblyInfo.cs
+/Users/lukaslevickis/Projects/WebAPIOrdering/WebAPIOrdering/obj/Debug/netcoreapp3.1/WebAPIOrdering.RazorTargetAssemblyInfo.cache
+/Users/lukaslevickis/Projects/WebAPIOrdering/WebAPIOrdering/obj/Debug/netcoreapp3.1/WebAPIOrdering.csproj.CopyComplete
+/Users/lukaslevickis/Projects/WebAPIOrdering/WebAPIOrdering/obj/Debug/netcoreapp3.1/WebAPIOrdering.dll
+/Users/lukaslevickis/Projects/WebAPIOrdering/WebAPIOrdering/obj/Debug/netcoreapp3.1/WebAPIOrdering.pdb

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "mBYwI81kkp8oSppKXoYdpgRRZ6gPj5eKOGPthtYLAyOZ9zeDl0VrVRP2WoPLZNNAnJQYDgsMFhQWJaXMWagPsg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lle\\Downloads\\sorter\\WebAPIOrdering\\WebAPIOrdering\\WebAPIOrdering.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lle\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

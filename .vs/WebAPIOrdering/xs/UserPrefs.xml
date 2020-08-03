@@ -1,0 +1,64 @@
+﻿<Properties StartupConfiguration="{C2000C81-7927-464A-98AD-9A5528352ECB}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="WebAPIOrdering/nlog.config">
+    <Files>
+      <File FileName="WebAPIOrdering/nlog.config" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="WebAPIOrdering" expanded="True">
+            <Node name="WebAPIOrdering" expanded="True">
+              <Node name="nlog.config" selected="True" />
+            </Node>
+            <Node name="WebAPIOrdering.Tests" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State>
+          <Value>File.WriteAllText(null, JsonConvert.SerializeObject(data))</Value>
+          <Value>File.ReadAllText(_jsonFile.Path + "\\" + _jsonFile.Name)</Value>
+          <Value>File.WriteAllText(filePath, JsonConvert.SerializeObject(data))</Value>
+          <Value>File.WriteAllText(filePath, JsonConvert.SerializeObject(data));</Value>
+          <Value>_jsonFile.Path</Value>
+          <Value>_jsonFile.Path</Value>
+          <Value>_fileSystem.File.WriteAllText(filePath, JsonConvert.SerializeObject(data));</Value>
+          <Value>_mockFileSystem.File.Exists(filePath)</Value>
+          <Value>filePath</Value>
+          <Value>_fileSystem.File.ReadAllText(filePath)</Value>
+          <Value>_fileSystem.File.WriteAllText(filePath, JsonConvert.SerializeObject(data))</Value>
+          <Value>_fileSystem.File.ReadAllText(filePath)</Value>
+          <Value>data</Value>
+          <Value>data.Equals("[2,4,1,3]")</Value>
+          <Value>_fileSystem.File.WriteAllText(filePath, JsonConvert.SerializeObject(data))</Value>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="WebAPIOrdering" expanded="True">
+            <Node name="WebAPIOrdering.Tests" expanded="True">
+              <Node name="WebAPIOrdering" expanded="True">
+                <Node name="Tests" expanded="True">
+                  <Node name="IntegerArrayServiceTests" expanded="True">
+                    <Node name="IntegerArrayService_ShouldReturnOrderedArray" selected="True" />
+                  </Node>
+                  <Node name="JsonFileHandlerServiceTests" expanded="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/lukaslevickis/Projects/WebAPIOrdering/WebAPIOrdering.Tests/zlej15nq.fm9~" relfile="WebAPIOrdering.Tests/zlej15nq.fm9~" line="37" column="1" />
+      <Breakpoint file="/Users/lukaslevickis/Projects/WebAPIOrdering/WebAPIOrdering.Tests/zlej15nq.fm9~" relfile="WebAPIOrdering.Tests/zlej15nq.fm9~" line="29" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.WebAPIOrdering PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MultiItemStartupConfigurations />
+</Properties>

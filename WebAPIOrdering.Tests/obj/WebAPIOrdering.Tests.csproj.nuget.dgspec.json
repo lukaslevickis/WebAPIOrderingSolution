@@ -1,0 +1,165 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/lukaslevickis/Projects/WebAPIOrdering/WebAPIOrdering.Tests/WebAPIOrdering.Tests.csproj": {}
+  },
+  "projects": {
+    "/Users/lukaslevickis/Projects/WebAPIOrdering/WebAPIOrdering.Tests/WebAPIOrdering.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/lukaslevickis/Projects/WebAPIOrdering/WebAPIOrdering.Tests/WebAPIOrdering.Tests.csproj",
+        "projectName": "WebAPIOrdering.Tests",
+        "projectPath": "/Users/lukaslevickis/Projects/WebAPIOrdering/WebAPIOrdering.Tests/WebAPIOrdering.Tests.csproj",
+        "packagesPath": "/Users/lukaslevickis/.nuget/packages/",
+        "outputPath": "/Users/lukaslevickis/Projects/WebAPIOrdering/WebAPIOrdering.Tests/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/lukaslevickis/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "/Users/lukaslevickis/Projects/WebAPIOrdering/WebAPIOrdering/WebAPIOrdering.csproj": {
+                "projectPath": "/Users/lukaslevickis/Projects/WebAPIOrdering/WebAPIOrdering/WebAPIOrdering.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.5.0, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.14.5, )"
+            },
+            "System.IO.Abstractions": {
+              "target": "Package",
+              "version": "[12.0.13, )"
+            },
+            "System.IO.Abstractions.TestingHelpers": {
+              "target": "Package",
+              "version": "[12.0.13, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[1.2.0, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            },
+            "xunit.runner.visualstudio": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.101/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/lukaslevickis/Projects/WebAPIOrdering/WebAPIOrdering/WebAPIOrdering.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/lukaslevickis/Projects/WebAPIOrdering/WebAPIOrdering/WebAPIOrdering.csproj",
+        "projectName": "WebAPIOrdering",
+        "projectPath": "/Users/lukaslevickis/Projects/WebAPIOrdering/WebAPIOrdering/WebAPIOrdering.csproj",
+        "packagesPath": "/Users/lukaslevickis/.nuget/packages/",
+        "outputPath": "/Users/lukaslevickis/Projects/WebAPIOrdering/WebAPIOrdering/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/lukaslevickis/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "NLog.Extensions.Logging": {
+              "target": "Package",
+              "version": "[1.6.4, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            },
+            "System.IO.Abstractions": {
+              "target": "Package",
+              "version": "[12.0.13, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.101/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
